@@ -11,5 +11,6 @@ dependencies = [
     "langgraph>=0.2.70",
     "notebook>=7.3.2",
     "openai>=1.61.1",
+    "pandas>=2.2.3",
     "tavily-python>=0.5.1",
 ]
